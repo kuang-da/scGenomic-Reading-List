@@ -3,9 +3,11 @@
 This is a Single-cell Genomic Reading List to take notes on the papers I encountered while learning computational biology. I am a computer science student therefore the list tends to focus on Algorithm and Statistical Inference.
 
 - [10 Must Reads](#10-must-reads)
+- Single Cell Expression Atlas
 - [Single-cell RNA Sequencing](#single-cell-rna-sequencing)
   - [Tutorials](#tutorials)
   - [Assembly and Quality Control](#assembly-and-quality-control)
+  - [Simulation](#simulation)
   - [Data Harmonirization](#data-harmonirization)
   - [Dimension Reduction](#dimension-reduction)
   - [Unsuperivsed Clustering](#unsuperivsed-clustering)
@@ -19,6 +21,8 @@ This is a Single-cell Genomic Reading List to take notes on the papers I encount
 - [Love, M.I., Huber, W. & Anders, S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol 15, 550 (2014).](https://doi.org/10.1186/s13059-014-0550-8)
 - [How UMAP Works](https://umap-learn.readthedocs.io/en/latest/how_umap_works.html)
 
+## Single-cell Expression Altas
+
 ## Single-cell RNA Sequencing Analysis
 
 ### Tutorials
@@ -30,6 +34,11 @@ This is a Single-cell Genomic Reading List to take notes on the papers I encount
 
 - [VERSE: a versatile and efficient RNA-Seq read counting tool (2016)](https://doi.org/10.1101/053306)
 - [Ondov, B., Starrett, G., Sappington, A. et al. Mash Screen: high-throughput sequence containment estimation for genome discovery. Genome Biol 20, 232 (2019).](https://doi.org/10.1186/s13059-019-1841-x)
+
+### Simulation
+
+- [Zappia, L., Phipson, B. & Oshlack, A. Splatter: simulation of single-cell RNA sequencing data. Genome Biol 18, 174 (2017).](https://doi.org/10.1186/s13059-017-1305-0)
+- [Zhang, X., Xu, C. & Yosef, N. Simulating multiple faceted variability in single cell RNA sequencing. Nat Commun 10, 2611 (2019).](https://doi.org/10.1038/s41467-019-10500-w)
 
 ### Data Harmonization
 
