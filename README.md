@@ -1,6 +1,6 @@
 # Single-cell Genomic Reading List
 
-This is a Single-cell Genomic Reading List to take notes on the papers I encountered while learning computational biology. I am a computer science student therefore the list tends to focused on Algorithm and Statical Inference.
+This is a Single-cell Genomic Reading List to take notes on the papers I encountered while learning computational biology. I am a computer science student therefore the list tends to focused on Algorithm and Statistical Inference.
 
 - [10 Must Reads](#10-must-reads)
 - [Single-cell RNA Sequencing](#single-cell-rna-sequencing)
