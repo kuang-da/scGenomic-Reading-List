@@ -31,7 +31,7 @@ This is a Single-cell Genomic Reading List to take notes on the papers I encount
 - [VERSE: a versatile and efficient RNA-Seq read counting tool (2016)](https://doi.org/10.1101/053306)
 - [Ondov, B., Starrett, G., Sappington, A. et al. Mash Screen: high-throughput sequence containment estimation for genome discovery. Genome Biol 20, 232 (2019).](https://doi.org/10.1186/s13059-019-1841-x)
 
-### Data Harmonirization
+### Data Harmonization
 
 - [Comprehensive integration of single cell data
 Tim Stuart, Andrew Butler, Paul Hoffman, Christoph Hafemeister, Efthymia Papalexi, William M. Mauck III, Marlon Stoeckius, Peter Smibert, Rahul Satija (2019).](https://doi.org/10.1016/j.cell.2019.05.031)
