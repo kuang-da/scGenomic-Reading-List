@@ -9,8 +9,9 @@ This is a Single-cell Genomic Reading List to take notes on the papers I encount
   - [Data Harmonirization](#data-harmonirization)
   - [Dimension Reduction](#dimension-reduction)
   - [Unsuperivsed Clustering](#unsuperivsed-clustering)
-  - Differential Expression Analysis
-  - Enrichment Analysis
+  - [Differential Expression Analysis](#differential-expression-analysis)
+  - [Enrichment Analysis](#enrichment-analysis)
+- [Single-cell Multimodal Analysis](#single-cell-multimodal-analysis)
 
 ## 10 Must Reads
 
