@@ -32,8 +32,9 @@ This is a Single-cell Genomic Reading List to take notes on the papers I encount
 - [Orchestrating Single-Cell Analysis with Bioconductor](https://www.nature.com/articles/s41592-019-0654-x)
 
 ### Framework
+
 - [Germain, P., Sonrel, A. & Robinson, M.D. pipeComp, a general framework for the evaluation of computational pipelines, reveals performant single cell RNA-seq preprocessing tools. Genome Biol 21, 227 (2020).](https://doi.org/10.1186/s13059-020-02136-7)
--[Jin, S., Zhang, L. & Nie, Q. scAI: an unsupervised approach for the integrative analysis of parallel single-cell transcriptomic and epigenomic profiles. Genome Biol 21, 25 (2020).](https://doi.org/10.1186/s13059-020-1932-8)
+- [Jin, S., Zhang, L. & Nie, Q. scAI: an unsupervised approach for the integrative analysis of parallel single-cell transcriptomic and epigenomic profiles. Genome Biol 21, 25 (2020).](https://doi.org/10.1186/s13059-020-1932-8)
 
 ### Assembly and Quality Control
 
