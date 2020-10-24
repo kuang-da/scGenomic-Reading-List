@@ -22,7 +22,7 @@ This is a Single-cell Genomic Reading List to take notes on the papers I encount
 - [Love, M.I., Huber, W. & Anders, S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol 15, 550 (2014).](https://doi.org/10.1186/s13059-014-0550-8)
 - [How UMAP Works](https://umap-learn.readthedocs.io/en/latest/how_umap_works.html)
 
-## Single-cell Expression Altas
+## Single-cell Expression Atlas
 
 ## Single-cell RNA Sequencing Analysis
 
