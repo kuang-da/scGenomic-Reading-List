@@ -21,8 +21,7 @@ This is a Single-cell Genomic Reading List to take notes on the papers I encount
 - [Haque, A., Engel, J., Teichmann, S.A. et al. A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications. Genome Med 9, 75 (2017)](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4#citeas)
 - [Love, M.I., Huber, W. & Anders, S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol 15, 550 (2014).](https://doi.org/10.1186/s13059-014-0550-8)
 - [How UMAP Works](https://umap-learn.readthedocs.io/en/latest/how_umap_works.html)
-- [A Comprehensive Multi-Center Cross-platform Benchmarking Study of Single-cell RNA Sequencing Using Reference Samples](A Comprehensive Multi-Center Cross-platform Benchmarking Study of Single-cell RNA Sequencing Using Reference Samples
-)
+- [A Comprehensive Multi-Center Cross-platform Benchmarking Study of Single-cell RNA Sequencing Using Reference Samples](https://www.biorxiv.org/content/10.1101/2020.03.27.010249v1)
 
 ## Single-cell Expression Atlas
 
@@ -43,6 +42,8 @@ This is a Single-cell Genomic Reading List to take notes on the papers I encount
 
 - [VERSE: a versatile and efficient RNA-Seq read counting tool (2016)](https://doi.org/10.1101/053306)
 - [Ondov, B., Starrett, G., Sappington, A. et al. Mash Screen: high-throughput sequence containment estimation for genome discovery. Genome Biol 20, 232 (2019).](https://doi.org/10.1186/s13059-019-1841-x)
+- [Genetic demultiplexing of pooled single-cell RNA-sequencing samples in
+cancer facilitates effective experimental design](https://www.biorxiv.org/content/10.1101/2020.11.06.371963v1)
 
 ### Simulation
 
@@ -60,6 +61,7 @@ Tim Stuart, Andrew Butler, Paul Hoffman, Christoph Hafemeister, Efthymia Papalex
 - [L. Lun, A.T., Bach, K. & Marioni, J.C. Pooling across cells to normalize single-cell RNA sequencing data with many zero counts. Genome Biol 17, 75 (2016). ](https://doi.org/10.1186/s13059-016-0947-7)
 
 ### Dimension Reduction
+
 - [Everything you did and didn't know about PCA](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
 - [Kobak, D., Berens, P. The art of using t-SNE for single-cell transcriptomics. Nat Commun 10, 5416 (2019).](https://doi.org/10.1038/s41467-019-13056-x)
 
