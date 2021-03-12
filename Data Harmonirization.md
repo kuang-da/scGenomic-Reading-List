@@ -1,0 +1,9 @@
+# Data Harmonization
+
+- [Comprehensive integration of single cell data
+Tim Stuart, Andrew Butler, Paul Hoffman, Christoph Hafemeister, Efthymia Papalexi, William M. Mauck III, Marlon Stoeckius, Peter Smibert, Rahul Satija (2019).](https://doi.org/10.1016/j.cell.2019.05.031)
+- [Liu, J., Gao, C., Sodicoff, J. et al. Jointly defining cell types from multiple single-cemll datasets using LIGER. Nat Protoc (2020).](https://doi.org/10.1038/s41596-020-0391-8)
+- [Lopez, R., Regier, J., Cole, M.B. et al. Deep generative modeling for single-cell transcriptomics. Nat Methods 15, 1053–1058 (2018).](https://doi.org/10.1038/s41592-018-0229-2)
+- [Korsunsky, I., Millard, N., Fan, J. et al. Fast, sensitive and accurate integration of single-cell data with Harmony. Nat Methods 16, 1289–1296 (2019).](https://doi.org/10.1038/s41592-019-0619-0)
+- [Hafemeister, C., Satija, R. Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression. Genome Biol 20, 296 (2019).](https://doi.org/10.1186/s13059-019-1874-1)
+- [L. Lun, A.T., Bach, K. & Marioni, J.C. Pooling across cells to normalize single-cell RNA sequencing data with many zero counts. Genome Biol 17, 75 (2016). ](https://doi.org/10.1186/s13059-016-0947-7)

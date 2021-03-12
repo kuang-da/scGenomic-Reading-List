@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "36e4af11516c1320",
+    "type": "split",
+    "children": [
+      {
+        "id": "700de55fa8257bfe",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9abba41db2cd13c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b46e6ba42c3a0a8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e79069a94fdf85a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f068f09ea045561",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "471270a529b12385",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bbad88f438f9628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e79236a8631e3b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "Single-cell Multimodal Analysis.md",
+    "Enrichment Analysis.md",
+    "Differential Expression Analysis.md",
+    "Unsuperivsed Clustering.md",
+    "Dimension Reduction.md",
+    "Data Harmonirization.md",
+    "Simulation.md",
+    "Tutorials.md",
+    "Assembly and Quality Control.md"
+  ]
+}

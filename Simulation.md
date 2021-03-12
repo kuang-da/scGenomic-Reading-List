@@ -1,0 +1,4 @@
+# Simulation
+
+- [Zappia, L., Phipson, B. & Oshlack, A. Splatter: simulation of single-cell RNA sequencing data. Genome Biol 18, 174 (2017).](https://doi.org/10.1186/s13059-017-1305-0)
+- [Zhang, X., Xu, C. & Yosef, N. Simulating multiple faceted variability in single cell RNA sequencing. Nat Commun 10, 2611 (2019).](https://doi.org/10.1038/s41467-019-10500-w)
