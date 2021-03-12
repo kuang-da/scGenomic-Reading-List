@@ -1,4 +1,2 @@
-# Enrichment Analysis
-
 - [Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists](https://academic.oup.com/nar/article/37/1/1/1026684)
 - [Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles](https://doi.org/10.1073/pnas.0506580102)

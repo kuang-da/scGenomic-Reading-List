@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "1f625318a44d00c0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,14 +94,14 @@
   },
   "lastOpenFiles": [
     "README.md",
-    "Single-cell Multimodal Analysis.md",
-    "Enrichment Analysis.md",
-    "Differential Expression Analysis.md",
+    "index.md",
     "Unsuperivsed Clustering.md",
-    "Dimension Reduction.md",
-    "Data Harmonirization.md",
-    "Simulation.md",
     "Tutorials.md",
-    "Assembly and Quality Control.md"
+    "Single-cell RNA Sequencing.md",
+    "Single-cell Multimodal Analysis.md",
+    "Single Cell Expression Atlas.md",
+    "Simulation.md",
+    "Framework.md",
+    "Enrichment Analysis.md"
   ]
 }

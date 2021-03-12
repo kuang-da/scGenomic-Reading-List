@@ -1,5 +1,3 @@
-# Data Harmonization
-
 - [Comprehensive integration of single cell data
 Tim Stuart, Andrew Butler, Paul Hoffman, Christoph Hafemeister, Efthymia Papalexi, William M. Mauck III, Marlon Stoeckius, Peter Smibert, Rahul Satija (2019).](https://doi.org/10.1016/j.cell.2019.05.031)
 - [Liu, J., Gao, C., Sodicoff, J. et al. Jointly defining cell types from multiple single-cemll datasets using LIGER. Nat Protoc (2020).](https://doi.org/10.1038/s41596-020-0391-8)
