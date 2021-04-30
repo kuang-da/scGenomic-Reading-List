@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "700de55fa8257bfe",
+        "id": "711fd056e3f1eac2",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -43,7 +42,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -61,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.0114860534668
   },
   "right": {
     "id": "471270a529b12385",
@@ -81,6 +80,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -90,18 +91,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
+  "active": "711fd056e3f1eac2",
   "lastOpenFiles": [
     "README.md",
-    "index.md",
-    "Unsuperivsed Clustering.md",
-    "Tutorials.md",
-    "Single-cell RNA Sequencing.md",
-    "Single-cell Multimodal Analysis.md",
-    "Single Cell Expression Atlas.md",
-    "Simulation.md",
-    "Framework.md",
-    "Enrichment Analysis.md"
+    "10 Must Reads.md",
+    "Differential Expression Analysis.md",
+    "Enrichment Analysis.md",
+    "Dimension Reduction.md",
+    "PC12 Differentiation Notes.md",
+    "Untitled.md",
+    "Data Harmonirization.md",
+    "Modeling Count Data.md",
+    "Single-cell RNAseq Experiments.md"
   ]
 }

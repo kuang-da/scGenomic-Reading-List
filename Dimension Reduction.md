@@ -1,2 +1,3 @@
 - [Everything you did and didn't know about PCA](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
-- [Kobak, D., Berens, P. The art of using t-SNE for single-cell transcriptomics. Nat Commun 10, 5416 (2019).](https://doi.org/10.1038/s41467-019-13056-x)
+- F. W. Townes, S. C. Hicks, M. J. Aryee, and R. A. Irizarry, “Feature selection and dimension reduction for single-cell RNA-Seq based on a multinomial model,” _Genome Biology_, vol. 20, no. 1, p. 295, Dec. 2019, doi: [10.1186/s13059-019-1861-6](https://doi.org/10.1186/s13059-019-1861-6).
+- D. Kobak and P. Berens, “The art of using t-SNE for single-cell transcriptomics,” _Nature Communications_, vol. 10, no. 1, Art. no. 1, Nov. 2019, doi: [10.1038/s41467-019-13056-x](https://doi.org/10.1038/s41467-019-13056-x).

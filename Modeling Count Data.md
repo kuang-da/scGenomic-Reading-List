@@ -1,0 +1,3 @@
+- Svensson, V. [[Droplet scRNA-seq is not zero-inflated]]. _Nat Biotechnol_ **38,** 147–150 (2020). https://doi.org/10.1038/s41587-019-0379-5
+- Silverman, Justin D., Kimberly Roche, Sayan Mukherjee, and Lawrence A. David. “[[Naught All Zeros in Sequence Count Data Are the Same]].” _Computational and Structural Biotechnology Journal_ 18 (January 1, 2020): 2789–98. [https://doi.org/10.1016/j.csbj.2020.09.014](https://doi.org/10.1016/j.csbj.2020.09.014).
+- S. C. Hicks, F. W. Townes, M. Teng, and R. A. Irizarry, “Missing data and technical variability in single-cell RNA-sequencing experiments,” _Biostatistics_, vol. 19, no. 4, pp. 562–578, Oct. 2018, doi: [10.1093/biostatistics/kxx053](https://doi.org/10.1093/biostatistics/kxx053).

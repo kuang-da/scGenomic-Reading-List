@@ -1,2 +1,3 @@
-- [Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746)
-- [Orchestrating Single-Cell Analysis with Bioconductor](https://www.nature.com/articles/s41592-019-0654-x)
+- “Current best practices in single‐cell RNA‐seq analysis: a tutorial | Molecular Systems Biology.” [https://www.embopress.org/doi/full/10.15252/msb.20188746](https://www.embopress.org/doi/full/10.15252/msb.20188746) (accessed Mar. 19, 
+- R. A. Amezquita _et al._, “Orchestrating single-cell analysis with Bioconductor,” _Nature Methods_, vol. 17, no. 2, Art. no. 2, Feb. 2020, doi: [10.1038/s41592-019-0654-x](https://doi.org/10.1038/s41592-019-0654-x).
+- M. S. Balzer, Z. Ma, J. Zhou, A. Abedini, and K. Susztak, “How to Get Started with Single Cell RNA Sequencing Data Analysis,” _JASN_, Mar. 2021, doi: [10.1681/ASN.2020121742](https://doi.org/10.1681/ASN.2020121742).

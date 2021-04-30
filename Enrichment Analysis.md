@@ -1,2 +1,4 @@
-- [Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists](https://academic.oup.com/nar/article/37/1/1/1026684)
-- [Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles](https://doi.org/10.1073/pnas.0506580102)
+- D. W. Huang, B. T. Sherman, and R. A. Lempicki, “Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists,” _Nucleic Acids Research_, vol. 37, no. 1, pp. 1–13, Jan. 2009, doi: [10.1093/nar/gkn923](https://doi.org/10.1093/nar/gkn923).
+- A. Subramanian _et al._, “Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles,” _PNAS_, vol. 102, no. 43, pp. 15545–15550, Oct. 2005, doi: [10.1073/pnas.0506580102](https://doi.org/10.1073/pnas.0506580102).
+- R. Janky _et al._, “iRegulon: From a Gene List to a Gene Regulatory Network Using Large Motif and Track Collections,” _PLOS Computational Biology_, vol. 10, no. 7, p. e1003731, Jul. 2014, doi: [10.1371/journal.pcbi.1003731](https://doi.org/10.1371/journal.pcbi.1003731).
+- S. Aibar _et al._, “SCENIC: single-cell regulatory network inference and clustering,” _Nature Methods_, vol. 14, no. 11, Art. no. 11, Nov. 2017, doi: [10.1038/nmeth.4463](https://doi.org/10.1038/nmeth.4463).
